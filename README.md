@@ -1,1 +1,3 @@
-# GEN-AI-project-
+# GEN-AI-project 
+# using Numpy,Matplotlib,Pil library.
+====================================
