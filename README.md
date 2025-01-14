@@ -15,11 +15,11 @@ the effects of changes made to the image.
 Basic operations are performed on arrays to modify image data, such as multiplying an array by a constant and setting specific values to zero.
 
 ### Responsibilities:
-##### . Image Loading: 
+##### * Image Loading: 
 Open and load the image using the Pillow library and convert it into a NumPy array for manipulation.
-##### . Color Channel Manipulation: 
+##### * Color Channel Manipulation: 
 Isolate and modify specific color channels (e.g., by setting green and blue channels to zero to focus on the red channel).
-##### . Visualization:
+##### * Visualization:
 Display the original and manipulated images using Matplotlib, experimenting with different color maps to highlight specific channels.
-##### . Array Operations: 
+##### * Array Operations: 
 Perform mathematical operations on arrays such as multiplying by constants and altering specific elements of the image.
