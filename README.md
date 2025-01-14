@@ -32,5 +32,8 @@ Used for opening, reading, and converting images into NumPy arrays for processin
 ##### 3.Matplotlib: 
 Used for visualizing the image and the effects of modifications on different color channels.
 
+### Project Summary:
+This project demonstrates basic image processing techniques using Python. It focuses on manipulating an image's color channels (red, green, and blue) and visualizing the effects of those manipulations. The project utilizes NumPy, Pillow, and Matplotlib to load, process, and visualize an image. Specific operations include isolating and modifying individual color channels, visualizing the resulting images, and performing basic array operations such as multiplying and setting specific channels to zero.
+
 
 
