@@ -23,3 +23,14 @@ Isolate and modify specific color channels (e.g., by setting green and blue chan
 Display the original and manipulated images using Matplotlib, experimenting with different color maps to highlight specific channels.
 ##### * Array Operations: 
 Perform mathematical operations on arrays such as multiplying by constants and altering specific elements of the image.
+
+### Tools Used:
+##### 1.NumPy: 
+Used for array creation and manipulation of image data as matrices.
+##### 2.Pillow (PIL): 
+Used for opening, reading, and converting images into NumPy arrays for processing.
+##### 3.Matplotlib: 
+Used for visualizing the image and the effects of modifications on different color channels.
+
+
+
