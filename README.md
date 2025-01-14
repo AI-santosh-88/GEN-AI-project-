@@ -1,6 +1,6 @@
 ## Project Title: Image Processing and Color Channel Manipulation with Python
 
-## * Project Description:
+### * Project Description:
 In this project:
 
 ##### 1.Image Loading and Conversion:
